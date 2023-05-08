@@ -1,7 +1,7 @@
 ##### CSV to JSON
 
 ##### REST API hosted @ Netlify
-https://csv-to-json.netlify.app
+https://khalid-mim-csv-to-json.netlify.app/
 
 ##### Installation
 
